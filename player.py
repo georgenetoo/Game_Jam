@@ -1,5 +1,5 @@
 import pygame 
-from settings import *
+from configuraçao import *
 from suporte import import_folder
 from entity import Entity
 
